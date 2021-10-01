@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varis Rana.
 -  👀 I’m interested in DSA and Problem Solving.
-- 👀 I’m interested in Web Development (MERN).
+- 👀 Also I’m interested in Web Development (MERN).
 - 🌱 I’m currently learning ReactJS and Docker.
 - 💞️ I’m looking to collaborate on Live Projects.
 - 📫 How to reach me ...https://www.linkedin.com/in/varis-rana-3976271bb/.
