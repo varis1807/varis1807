@@ -3,34 +3,29 @@
 
 <p align="left"> <img src="" alt="VarisRana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varisrana" alt="rakeshcharpe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varisrana" alt="varisrana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rakesh_charpe" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_charpe?logo=twitter&style=for-the-badge" alt="rakesh_charpe" /></a> </p>
 
-- 🔭 I’m currently looking for **Full-Stack/MERN-Stack Position**
+- 🔭 I’m currently looking for **Full-Stack/MERN-Stack Position, Data Engineer, Software Engineering Development, Software Testing, React JS, FontEnd Engineer, Data Analytics, Data Science, Big Data**
 
-- 🌱 I’m currently learning **React.js , MongoDB**
+- 🌱 I’m currently learning **React.js , MongoDB, Data Structure and Algorithm, SQL, Hadoop, Big Data, Hive**
 
-- 📝 I regularly write articles on [https://medium.com/@rakeshcharpe99](https://medium.com/@rakeshcharpe99)
+- 💬 Ask me about **HTML , CSS ,JS ,JAVA ,Problem solving Skill, Hadoop, Hive, SQL, No SQL, Mongo DB, **
 
-- 💬 Ask me about **HTML , CSS ,JS ,JAVA ,Problem solving Skill**
+- 📫 How to reach me **https://www.linkedin.com/in/varis-rana-3976271bb/**
 
-- 📫 How to reach me **varisrana.com**
-
-- ⚡ Fun fact **Coding Enthusiastic**
+- ⚡ Fun fact **Coding Enthusiastic, Problem Solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rakesh_charpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_charpe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakesh charpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh charpe" height="30" width="40" /></a>
-<a href="https://fb.com/rakesh charpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh charpe" height="30" width="40" /></a>
-<a href="https://instagram.com/rakeshcharpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshcharpe" height="30" width="40" /></a>
-<a href="https://medium.com/@rakeshcharpe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakeshcharpe99" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rakesh112000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakesh112000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakeshcharpe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakeshcharpe99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakesh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rakeshcharpe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakeshcharpe99" height="30" width="40" /></a>
-<a href="https://discord.gg/#1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1612" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varis-rana-3976271bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varis rana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/varish.rana.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varis rana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/varis._.rana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varis rana" height="30" width="40" /></a>
+<a href=https://www.codechef.com/users/varisrana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakesh112000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vrvarisrana123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varis rana" height="30" width="40" /></a>
+<a href="https://leetcode.com/Varis123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh99" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vrvarisrana123/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakeshcharpe99" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
