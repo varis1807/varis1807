@@ -61,7 +61,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/varis-rana-3976271bb/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences https://drive.google.com/file/d/1A3p-Kh2_w4pPS8MbPxI7gck7OGhNLeeF/view
 
 - ⚡ Fun fact **Coding Enthusiastic, Problem Solver**
 
