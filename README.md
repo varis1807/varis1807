@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="" alt="VarisRana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varisrana" alt="varisrana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshcharpe" alt="rakeshcharpe" /></a> </p>
 
 
 - 🔭 I’m currently looking for **Full-Stack/MERN-Stack Position, Data Engineer, Software Engineering Development, Software Testing, React JS, FontEnd Engineer, Data Analytics, Data Science, Big Data**
